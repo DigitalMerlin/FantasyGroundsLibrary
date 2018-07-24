@@ -12,6 +12,7 @@
 
 ## Modules
 
+- [Community Contributions](https://www.fantasygrounds.com/forums/showthread.php?22975-5E-Community-extensions)
 - [celestian's character class effects](https://www.fantasygrounds.com/forums/showthread.php?40833-5E-Advanced-Effects-(items-npcs-characters))
   
     Extensive Character Class Effects extension. Adding most abilities up to level 20. [Download](https://www.fantasygrounds.com/forums/attachment.php?attachmentid=23972&d=1531602184)
