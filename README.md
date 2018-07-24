@@ -3,6 +3,7 @@
 ## Video Tutorials
 
 - [Deep Dive introduction for players](https://www.youtube.com/watch?v=q47SgXZLHdo&t=1483s)
+- [Adding Tokens](https://www.youtube.com/watch?v=mBAbn-uy328)
 
 ### Character Creation
 
