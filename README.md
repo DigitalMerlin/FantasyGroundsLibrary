@@ -23,6 +23,7 @@
 
 ## Campaigns
 
+- (Dungeons by Level)[https://rpg.stackexchange.com/questions/100131/where-can-i-find-a-list-of-fantasy-grounds-mini-dungeons-adventures-by-level]
 - (Adventure a Week)[https://adventureaweek.com/?s=5e+fantasy+grounds&post_type=product&paged=8&post_type=product]
 
 ### Starter Campaigns
@@ -38,6 +39,7 @@
     We’ve included a few monsters, traps and treasure to get your new characters started. The encounter also includes a map that can be used to set up your own player grid. [Download](https://www.fantasygrounds.com/forums/attachment.php?attachmentid=18070&d=1488204990)
     
  ### One Shots
+ - [Discuss](https://www.fantasygrounds.com/forums/showthread.php?39134-5th-edition-one-shot-modules)
  - [A Dozen 5th Edition One-Shot Adventures for Levels 1 to 15](https://store.steampowered.com/app/639950/Fantasy_Grounds__Prepared_One_Shot_Adventures_5E/)
  
  ## Resources
