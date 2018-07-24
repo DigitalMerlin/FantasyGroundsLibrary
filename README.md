@@ -34,3 +34,7 @@
     
  ## One Shots
  - [A Dozen 5th Edition One-Shot Adventures for Levels 1 to 15](https://store.steampowered.com/app/639950/Fantasy_Grounds__Prepared_One_Shot_Adventures_5E/)
+ 
+ ## Resources
+ 
+ - [Extensions, Modules, Pregens and other 5E resources](https://www.fantasygrounds.com/forums/showthread.php?27298-Extensions-Modules-Pregens-and-other-5E-resources)
