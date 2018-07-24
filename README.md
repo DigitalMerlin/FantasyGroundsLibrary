@@ -4,6 +4,7 @@
 
 - [Deep Dive introduction for players](https://www.youtube.com/watch?v=q47SgXZLHdo&t=1483s)
 - [Adding Tokens](https://www.youtube.com/watch?v=mBAbn-uy328)
+- [Fantasy Grounds College](https://www.youtube.com/playlist?list=PLzjJyt4w-pw1NTUgjhVhk6ZBa4w8RyKtw)
 
 ### Character Creation
 
