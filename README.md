@@ -11,6 +11,9 @@
 - [Digital Dungeon Master](https://www.youtube.com/watch?v=WrRHn2YjKXY)
 - [Fantasy Grounds](https://www.youtube.com/watch?v=nurEMR4JJeU&t=884s)
 
+#### Attack Syntax
+- https://www.fantasygrounds.com/forums/showthread.php?35937-How-to-Automate-effects-on-NPCs
+
 ## Tokens
  - [Devin's Free Token Pack](https://immortalnights.com/tokensite/?product=all-free-tokens-in-one-file)
 
@@ -25,6 +28,9 @@
 
 - [Dungeons by Level](https://rpg.stackexchange.com/questions/100131/where-can-i-find-a-list-of-fantasy-grounds-mini-dungeons-adventures-by-level)
 - [Adventure a Week](https://adventureaweek.com/?s=5e+fantasy+grounds&post_type=product&paged=8&post_type=product)
+
+### Creating
+- Syntax https://www.fantasygrounds.com/refdoc/formattedtextcontrol.xcp
 
 ### Starter Campaigns
 
