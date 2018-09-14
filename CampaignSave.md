@@ -35,6 +35,18 @@ From the command line, navigate to your Fantasy Grounds `campaigns` directory an
 - `git init`: initializes git tracking in the directory you are in
 - `git remote add origin` `remote-repository-URL`: Sets the new remote, where `remote-repository-URL` was found above in GitHub.
 
+### Some security
+
+The file `campaign.xml` does have your game connection details in it (password). It may be smart to not track this file OR just change your game password each time. 
+
+To omit this file from being tracked and stored in the internet:
+
+`echo "campaign.xml" >> .gitignore`
+
+This will create a `.gitignore` file that omits `campaign.xml`
+
+Verfiy it `cat .gitignore`
+
 ## Save changes
 
 As your game (or changes) progress, save and push the files remotely.
