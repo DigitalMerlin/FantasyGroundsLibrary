@@ -53,7 +53,7 @@ As your game (or changes) progress, save and push the files remotely.
 
 - `git add -A`: Adds the files in the local repository and stages them for commit
 - `git commit -m` `"First commit"`: Commits the tracked changes. You can change the `"First commit"` as play evolves, (ie `"Save after second session dungeon battle"`)
-- `git push -u origin master`: Pushes all files to remote repository.
+- `git push -u origin master`: Pushes all files to remote repository (If you chose to set up a GitHub account/repository)
 
 ## Reverting
 
